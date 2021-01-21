@@ -1,6 +1,6 @@
 import React from 'react'
 import Navigation from '../Components/Navigation/Navigation'
-
+import AboutUs from '../Pages/AboutUs'
 function Home() {
     return (
         <div>
@@ -13,6 +13,7 @@ function Home() {
             Discover Spectre
             </p>
         </div>
+        <AboutUs />
         </div>
     )
 }
