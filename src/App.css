@@ -5,14 +5,19 @@
   list-style: none;
   font-family: 'Montserrat', sans-serif;
 }
-/*!! Navigation */
+body{
+  background-color: #000;
+  height:1500px;
+}
+/* Navigation */
 .Navigation{
-  background-color: #444;
+  /* background-color: #444; */
   height:100px;
   display: flex;
   justify-content:space-between;
   align-items: center;
   padding:0px 50px;
+  top:0;
 }
 .NavigationUl{
   display: flex;
@@ -26,10 +31,17 @@
   letter-spacing:.5px;
   font-weight: 500;
 }
-/*? Logo  */
+.NavLink:hover{
+color:#CFCFCF;
+}
+/* Logo  */
 .Logo{
   height:50px;
 }
-body{
-  background-color: #000;
+/* Nav and Cta */
+.Nav_Cta{
+  height:700px;
+  background:url('./Images/Background.jpg');
+  background-position: center;
+  background-size: cover;
 }

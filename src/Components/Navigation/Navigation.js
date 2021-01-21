@@ -1,9 +1,11 @@
-import React from 'react'
+import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
 import Logo from '../../Images/Logo.png'
-export default function Navigation() {
-    return (
-        <div className='Navigation'>
+
+export default class Navigation extends Component {
+    render() {
+        return (
+            <div className='Navigation'>
             <img src={Logo} alt='Logo' className='Logo'></img>
             <ul className='NavigationUl'>
                 <li><Link className='NavLink' to='#'>Home</Link></li>
@@ -14,5 +16,6 @@ export default function Navigation() {
                 <li><Link className='NavLink' to='#'>News</Link></li>
             </ul>
         </div>
-    )
+        )
+    }
 }

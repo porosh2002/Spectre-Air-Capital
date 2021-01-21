@@ -1,11 +1,11 @@
 import React from 'react'
 import './App.css'
-import Navigation from './Components/Navigation/Navigation'
 import { BrowserRouter} from 'react-router-dom'
+import Home from './Pages/Home'
 export default function App() {
   return (
     <BrowserRouter>
-      <Navigation />
+      <Home />
     </BrowserRouter>
   )
 }
