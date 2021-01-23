@@ -79,3 +79,33 @@ color:#CFCFCF;
   font-weight:500;
   text-align: center;
 }
+/* EXP */
+.EXP{
+padding:30px 0px;
+margin:70px 0px;
+}
+.ExpCards{
+text-align: center;
+}
+.ExpCard{
+  display:inline-block;
+  padding:30px 0px;
+  margin:15px;
+  width:300px;
+  background-color:#cfcfcfc7;
+  color: royalblue;
+  font-size: 30px;
+}
+.ExpCard div{
+  display: inline-block;
+  margin: 0px 20px;
+}
+.ExpTitle,.ExpNum{
+  font-size:18px;
+font-weight: 500;
+color: #343a40;
+}
+.ExpNum{
+font-size:30px;
+opacity:.8;
+}

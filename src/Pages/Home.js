@@ -1,6 +1,7 @@
 import React from 'react'
 import Navigation from '../Components/Navigation/Navigation'
 import AboutUs from '../Pages/AboutUs'
+import Exp from '../Components/EXP/Exp'
 function Home() {
     return (
         <div>
@@ -14,6 +15,7 @@ function Home() {
             </p>
         </div>
         <AboutUs />
+        <Exp />
         </div>
     )
 }
