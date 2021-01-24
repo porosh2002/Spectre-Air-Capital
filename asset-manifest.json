@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Spectre-Air-Capital/static/css/main.d50492dc.chunk.css",
+    "main.js": "/Spectre-Air-Capital/static/js/main.465435e6.chunk.js",
+    "main.js.map": "/Spectre-Air-Capital/static/js/main.465435e6.chunk.js.map",
+    "runtime-main.js": "/Spectre-Air-Capital/static/js/runtime-main.e1385581.js",
+    "runtime-main.js.map": "/Spectre-Air-Capital/static/js/runtime-main.e1385581.js.map",
+    "static/js/2.675cbee8.chunk.js": "/Spectre-Air-Capital/static/js/2.675cbee8.chunk.js",
+    "static/js/2.675cbee8.chunk.js.map": "/Spectre-Air-Capital/static/js/2.675cbee8.chunk.js.map",
+    "static/js/3.4f395477.chunk.js": "/Spectre-Air-Capital/static/js/3.4f395477.chunk.js",
+    "static/js/3.4f395477.chunk.js.map": "/Spectre-Air-Capital/static/js/3.4f395477.chunk.js.map",
+    "index.html": "/Spectre-Air-Capital/index.html",
+    "static/css/main.d50492dc.chunk.css.map": "/Spectre-Air-Capital/static/css/main.d50492dc.chunk.css.map",
+    "static/js/2.675cbee8.chunk.js.LICENSE.txt": "/Spectre-Air-Capital/static/js/2.675cbee8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Spectre-Air-Capital/static/media/contactBG.b7ddd0d6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1385581.js",
+    "static/js/2.675cbee8.chunk.js",
+    "static/css/main.d50492dc.chunk.css",
+    "static/js/main.465435e6.chunk.js"
+  ]
+}
