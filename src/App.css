@@ -91,7 +91,6 @@ text-align: center;
   padding:30px 0px;
   margin:15px;
   width:300px;
-  background-color:#cfcfcfc5;
   color: royalblue;
   font-size: 30px;
 }
@@ -144,4 +143,36 @@ opacity:.8;
   color: #fff;
   border-radius:3px;
   font-weight:500;
+}
+/* Review */
+.Review{
+  background-color: #343a40;
+  color: #fff !important;
+  text-align: center;
+}
+.TitleReview{
+  font-size:25px;
+  padding:50px 0px;
+  font-weight: 500;
+  color: #fff;
+}
+.ReviewContent{
+  padding:0px 170px;
+  color: #cfcfcf;
+}
+.QuoteIcon{
+  margin: 5px;
+  font-size:35px;
+  color: #fff;
+}
+.ReviewAurthor{
+  color:#fff;
+  text-align: right;
+  padding: 30px;
+  font-weight: 500;
+}
+.PenIcon{
+  font-size:30px;
+  color:#fff;
+  margin: 5px 0px;
 }
