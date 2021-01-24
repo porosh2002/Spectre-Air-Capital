@@ -178,7 +178,35 @@ opacity:.8;
 }
 /* ContactSection */
 .ContactSection{
-  height:250px;
   background: url('./Images/contactBG.jpg');
+  background-position:center;
   background-size: cover;
+}
+.ContactSectionWrap{
+  padding:50px;
+  height:100%;
+  background-color:#444444b5;
+  color: #fff;
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+}
+.ContactTitle{
+  font-size:25px;
+  font-weight:500;
+  margin-bottom:30px;
+}
+.ContactDes{
+  font-size:15px;
+  font-weight:500;
+  margin-bottom:5px;
+  color: #cfcfcf;
+}
+.ContactLink{
+  font-size:35px;
+  margin:10px;
+  color: #fff;
+}
+.ContactLink:hover{
+  color: #cfcfcf;
 }
