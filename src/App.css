@@ -176,3 +176,9 @@ opacity:.8;
   color:#fff;
   margin: 5px 0px;
 }
+/* ContactSection */
+.ContactSection{
+  height:250px;
+  background: url('./Images/contactBG.jpg');
+  background-size: cover;
+}
